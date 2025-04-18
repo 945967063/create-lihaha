@@ -1,0 +1,20 @@
+{
+  "name": "create-lihaha",
+  "version": "1.0.0",
+  "bin": {
+    "mycli": "./index.js"
+  },
+  "type": "module",
+  "keywords": [
+    "cli",
+    "scaffold",
+    "vite",
+    "template",
+    "vue3"
+  ],
+  "author": "酌饮慢思倾楼",
+  "license": "MIT",
+  "dependencies": {
+    "prompts": "^2.4.2"
+  }
+}
